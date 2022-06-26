@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:force_network/force_network.dart';
+import 'package:network_representation/network_representation.dart';
 
 void main() {
   runApp(const MyApp());

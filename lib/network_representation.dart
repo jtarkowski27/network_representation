@@ -1,4 +1,4 @@
-library force_network;
+library network_representation;
 
 import 'dart:math';
 
