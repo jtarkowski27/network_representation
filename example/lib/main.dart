@@ -25,7 +25,10 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const ForceNetwork(),
+      home: Container(
+        color: Colors.white,
+        child: const ForceNetwork(),
+      ),
     );
   }
 }
