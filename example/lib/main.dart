@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Container(
         color: Colors.white,
-        child: const ForceNetwork(),
+        child: const NetworkRepresentation(),
       ),
     );
   }
